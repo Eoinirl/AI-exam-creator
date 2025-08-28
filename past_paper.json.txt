@@ -1,0 +1,15 @@
+
+[
+  {
+    "section": "Section 1",
+    "topic": "HCF_LCM",
+    "question": "Find the HCF and LCM of 24 and 36",
+    "marks": ["Prime factorization", "HCF", "LCM"]
+  },
+  {
+    "section": "Section 5",
+    "topic": "Quadratics",
+    "question": "Solve x^2 + 5x + 6 = 0",
+    "marks": ["Factorize the quadratic", "Set each factor to zero", "Solve for x"]
+  }
+]
